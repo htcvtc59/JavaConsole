@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQL Server (Microsoft) - @localhost" uuid="f4fa03b8-00ee-448a-bbc1-98ea23cf098a">
+      <database-info product="Microsoft SQL Server" version="13.00.1601" jdbc-version="4.0" driver-name="Microsoft SQL Server JDBC Driver 3.0" driver-version="3.0.1301.101">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <resolve-scope>master:*</resolve-scope>
+    </data-source>
+  </component>
+</project>
